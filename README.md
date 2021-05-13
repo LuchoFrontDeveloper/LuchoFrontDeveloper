@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuchoFrontDeveloper
 - 👀 I’m interested in Front-End /\ Design /\ UI - UX
-- 🌱 I’m currently learning HTML - CSS - JS - React - Firebase - Figma - English ¯\_( ͡❛ ͜ʖ ͡❛)_/¯
+- 🌱 I’m currently learning HTML - CSS - JS - React - Firebase - Figma - Gimp - English ¯\_( ͡❛ ͜ʖ ͡❛)_/¯
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
